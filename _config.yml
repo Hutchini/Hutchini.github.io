@@ -16,12 +16,12 @@
 title: Andrew Hutchon
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Andrew Hutchon's personal website and blog, wow!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "Hutchini.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: andrewhutchon
 github_username:  Hutchini
 
+show_excerpts: true
 # Build settings
 markdown: kramdown
 theme: minima
