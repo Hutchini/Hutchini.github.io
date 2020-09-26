@@ -20,7 +20,7 @@ Characters have three **Attributes**: **Strength**, **Dexterity** and **Charisma
 
 Attributes can be *low* or *high*. Roll 2d6 for each attribute, and on a 10+ mark the attribute as *high*. On a 4-, mark the attribute as *low*.
 
-Characters have a **Trait** and a **Background**.
+Characters have a **Trait** or **Skill** and a **Background**.
 
 Characters can also have a **Special Ability**, which is decided together with the GM.
 
@@ -87,7 +87,6 @@ If you attempt to carry more, you are overencumbered and at a disadvantage when 
 ---
 
 # Inspirations
-* The Landshut Rules by Norbert G. Matausch
-* Daydreaming Dragonslayer's Adventure Hour
+* Dreaming Dragonslayer's Adventure Hour
 * Into The Odd / Electric Bastionland by Chris McDowall
 * Blades in the Dark by John Harper
